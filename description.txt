@@ -1,0 +1,16 @@
+dataset link : https://www.kaggle.com/datasets/sumit17125/eye-image-dataset
+
+
+
+
+    Image Name: The filename of the corresponding right eye image.
+    Disease Labels:
+        N: Normal (No Disease)
+        D: Diabetic Retinopathy
+        G: Glaucoma
+        C: Cataract
+        A: Age-Related Macular Degeneration
+        H: Hypertensive Retinopathy
+        M: Myopia
+        O: Other Eye Diseases
+    Additional columns may include patient details (if available), image capture conditions, or severity levels.

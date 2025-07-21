@@ -1,0 +1,1 @@
+ReduceLROnPlateau is a learning rate scheduler that dynamically reduces the learning rate when a monitored metric has stopped improving,
