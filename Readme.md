@@ -12,7 +12,7 @@
 
 ## 🚀 Live Demo
 
-🌐 [Launch the App](https://your-streamlit-url.streamlit.app/)  
+🌐 [Launch the App](https://optinerve.streamlit.app/)  
 📸 Upload a retina image and get real-time predictions from a trained ResNet50 model.
 
 ---
